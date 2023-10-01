@@ -14,8 +14,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Repositoty Link (https://github.com/Haleemah-Abosede/)
-- Live Site URL: (https://haleemah-abosede.github.io//)
+- Solution URL: Repositoty Link (https://github.com/Haleemah-Abosede/interactive-rating-component-main)
+- Live Site URL: (https://haleemah-abosede.github.io/interactive-rating-component-main/)
 
 ## My process
 
